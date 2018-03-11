@@ -1,0 +1,42 @@
+body{
+margin: 0;
+padding: 0;
+background: url(https://www.pexels.com/photo/abendstimmung-background-background-image-blur-459273/) no-repeat;
+background-size: cover;
+  }
+
+    .box{
+    	  width: 450px;
+    	  backgroud: rgba(0; 0;0; 0.4);
+          padding: 40px;
+          text-align: center;
+          margin: auto;
+          margin-top: 5%;
+          color: while;
+          font-family:'century gothic',sans-serif; 
+               }
+
+               .box-img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  }
+  .box h1{
+  	  font size: 40px;
+  	  letter-spacing:4px;
+  	  font-weight: 100;
+  	}
+  	.box h5{
+  		font-size: 25px;
+  		letter-spacing: 3px;
+        font-weight: 100; 
+         	}
+
+.box p{
+     text-align:justify;   
+
+  } 
+
+
+
+               }
